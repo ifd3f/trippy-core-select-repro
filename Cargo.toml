@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-trippy-core = "0.13.0"
+trippy-core = { git = "https://github.com/fujiapple852/trippy", rev = "9ebf8b2624985bb4cf5bbc608c439c039b4c5b19" }
